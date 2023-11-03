@@ -1,1 +1,1 @@
-# CSCI_1112_OOP2_Coursework
+Contains my coursework for the Object-Oriented Programming II course at Southwest Tech.
